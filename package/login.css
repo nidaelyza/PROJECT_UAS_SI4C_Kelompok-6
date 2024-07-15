@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+video{
+    width: 100%;
+}
+.login-box{
+    margin-top: -550px;
+    margin-left: 970px;
+    transform: translate(-10%,-10%);
+    padding: 30px;
+    border-radius: 10px;
+}
+p{
+    color: beige;
+    text-align: center;
+}
+.text-center{
+    color: dodgerblue;
+}
